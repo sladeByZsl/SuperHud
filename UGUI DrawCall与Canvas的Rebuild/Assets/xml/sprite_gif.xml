@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 被2013 sp1 () 使用XMLSpy v编辑的 (http://www.altova.com) by -->
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by  () -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!--	界面精灵动画系统	-->
+<!--
+    GifList - 动画列表
+        ID - 动画的ID 
+			<1000 表情动画
+			>1000 特效动画
+        Width - 动画图标的宽度
+        Height - 动画图标的高度
+		Frame - 动画帧数据
+        fNextGapTime - 到下一帧的间隔时间(本帧的显示时间)
+        OffsetX - 当前帧的X轴位移
+        OffsetY - 当前帧的Y轴位移
+        ScaleWidth - 当前的宽度缩放系数(以100为基准, 百分比)
+        ScaleHeighat - 当前的高度缩放系数(以100为基准, 百分比)
+-->
+<Root>
+	<GifList ID="1" Width="48" Height="46">
+		<Frame SpriteName="aimu_nan_1" fNextGapTime="0.15" OffsetX="0" OffsetY="0" ScaleWidth="100" ScaleHeight="100"/>
+		<Frame SpriteName="aimu_nan_2" fNextGapTime="0.15" OffsetX="0" OffsetY="0" ScaleWidth="100" ScaleHeight="100"/>
+		<Frame SpriteName="aimu_nan_3" fNextGapTime="0.15" OffsetX="0" OffsetY="0" ScaleWidth="100" ScaleHeight="100"/>
+		<Frame SpriteName="aimu_nan_4" fNextGapTime="0.15" OffsetX="0" OffsetY="0" ScaleWidth="100" ScaleHeight="100"/>
+	</GifList>
+	<GifList ID="2" Width="48" Height="46">
+		<Frame SpriteName="aimu_nv1" fNextGapTime="0.15" OffsetX="0" OffsetY="0" ScaleWidth="100" ScaleHeight="100"/>
+		<Frame SpriteName="aimu_nv2" fNextGapTime="0.15" OffsetX="0" OffsetY="0" ScaleWidth="100" ScaleHeight="100"/>
+		<Frame SpriteName="aimu_nv3" fNextGapTime="0.15" OffsetX="0" OffsetY="0" ScaleWidth="100" ScaleHeight="100"/>
+		<Frame SpriteName="aimu_nv4" fNextGapTime="0.15" OffsetX="0" OffsetY="0" ScaleWidth="100" ScaleHeight="100"/>
+	</GifList>
+</Root>
